@@ -1,0 +1,7 @@
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+D:\Oleh\Epam_C#\DZ1\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

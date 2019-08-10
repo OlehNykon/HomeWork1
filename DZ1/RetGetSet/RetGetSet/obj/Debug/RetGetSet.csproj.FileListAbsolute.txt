@@ -1,0 +1,6 @@
+D:\Oleh\Epam_C#\DZ1\RetGetSet\RetGetSet\obj\Debug\RetGetSet.csproj.CoreCompileInputs.cache
+D:\Oleh\Epam_C#\DZ1\RetGetSet\RetGetSet\bin\Debug\RetGetSet.exe.config
+D:\Oleh\Epam_C#\DZ1\RetGetSet\RetGetSet\bin\Debug\RetGetSet.exe
+D:\Oleh\Epam_C#\DZ1\RetGetSet\RetGetSet\bin\Debug\RetGetSet.pdb
+D:\Oleh\Epam_C#\DZ1\RetGetSet\RetGetSet\obj\Debug\RetGetSet.exe
+D:\Oleh\Epam_C#\DZ1\RetGetSet\RetGetSet\obj\Debug\RetGetSet.pdb
